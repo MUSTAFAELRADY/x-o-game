@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: aliceblue;
+}
+
+.head {
+    margin: auto;
+    margin-top: 50px;
+    width: 50%;
+    background-color: brown;
+    padding: 10px;
+    text-align: center;
+    font-size: 35px;
+}
+
+.game {
+    margin-top: 20px;
+    width: 50%;
+    margin: auto;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.box {
+
+    width: 28%;
+    height: 100px;
+    background-color: brown;
+    /* display: flex;
+    flex-direction: row; */
+    margin: 0.5%;
+    font-size: 60px;
+    float: left;
+    border-radius: 7px;
+
+}
